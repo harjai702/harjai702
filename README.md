@@ -1,4 +1,4 @@
-# Hi there, I'm Bhavya Sharma 👋
+# Hi there, I'm Harsh Harjai 👋
 
 ## I'm a Developer and Student! <img src="https://komarev.com/ghpvc/?username=bhavya104" alt="bhavyasharma" />
 <!-- [![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104) -->
