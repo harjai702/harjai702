@@ -3,7 +3,7 @@
 ## I'm a Developer and Student! <img src="https://komarev.com/ghpvc/?username=harjai702" alt="harshharjai" />
 <!-- [![HitCount](http://hits.dwyl.com/bhavya104/bhavya104.svg)](http://hits.dwyl.com/bhavya104/bhavya104) -->
 - 🔭 Currently learning to manage work and time
-- 💻 Android Developer and Java Developer
+- 💻 Fluttter Developer and Java Developer
 - 🌱 Learning Software Development 👨‍💻 
 - 💬 Always available for help. 
 - 🥅 2020 Goals: Contribute more to Open Source projects
