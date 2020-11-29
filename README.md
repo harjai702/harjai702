@@ -36,7 +36,7 @@
 <br>
 
 ### Github Stats:
-[![Harsh Harjai github stats](https://github-readme-stats.vercel.app/api?username=harjai702&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh Harjai github stats](https://github-readme-stats.vercel.app/api?username=harjai702&show_icons=true)](https://github.com/harjai702/github-readme-stats)
 
 
 
