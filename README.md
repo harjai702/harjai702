@@ -6,7 +6,7 @@
 - 💻 Fluttter Developer and Java Developer
 - 🌱 Learning Software Development 👨‍💻 
 - 💬 Always available for help. 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📕 Love to read Books
 
 ### Connect with me: 
